@@ -3,7 +3,7 @@ body {
     text-align: center;
 }
 
-header {
+.background {
     background-image: url(../images/the-flatiron-building.png);
     background-size: cover;
 }
