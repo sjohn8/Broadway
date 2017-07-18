@@ -6,17 +6,17 @@ body {
 .background {
     background-image: url(../images/the-flatiron-building.png);
     background-size: cover;
+    color: white;
 }
 
 /* HEADER/HOME SECTION */
 h1 {
     font-size: 70px; 
     font-weight: bold;
-    color: white;
 }
 
 a {
-    color: white;
+     color: white; 
     font-size: 18px;
 }
 
