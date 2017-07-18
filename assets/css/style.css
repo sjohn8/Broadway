@@ -9,7 +9,6 @@ body {
     color: white;
 }
 
-/* HEADER/HOME SECTION */
 h1 {
     font-size: 70px; 
     font-weight: bold;
@@ -20,7 +19,6 @@ a {
     font-size: 18px;
 }
 
-/* ABOUT SECTION  */
 h2 {
     font-size: 32px;
     font-weight: bold;
