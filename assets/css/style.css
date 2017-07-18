@@ -8,6 +8,7 @@ body {
     background-size: cover;
 }
 
+/* HEADER/HOME SECTION */
 h1 {
     font-size: 70px; 
     font-weight: bold;
@@ -17,4 +18,19 @@ h1 {
 a {
     color: white;
     font-size: 18px;
+}
+
+/* ABOUT SECTION  */
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 14px;
 }
